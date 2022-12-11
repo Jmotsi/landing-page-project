@@ -7,7 +7,7 @@ This was a mini project were i Built a landing page using HTML and CSS.
 ## Usage 
 
 
-![Screenshot](assets/images/justininc.JPG)
+![Screenshot](https://raw.githubusercontent.com/Jmotsi/landing-page-project/main/assets/justininc.JPG)
 
 ## License
 
